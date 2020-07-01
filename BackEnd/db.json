@@ -1,0 +1,8 @@
+{
+    "Users": [{
+        "id": 1,
+        "first_name": "Dani",
+        "last_name":"Oliveira",
+        "email": "dani@gmail.com"
+    }]
+}
